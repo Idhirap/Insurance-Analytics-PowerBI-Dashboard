@@ -226,9 +226,10 @@ This feature allows seamless transition from summary insights to granular record
 Implemented Row-Level Security to restrict data visibility based on user roles.
 
 ### Roles Created
--Travel Role
--Health Role
 
+- Travel Role
+- Health Role
+  
 ### Validation
 
 RLS was tested in:
@@ -304,8 +305,14 @@ The project includes:
 - Data transformation using Power Query
 - Interactive dashboard visualizations
 - Drill Through navigation
-- Role-Level Security (RLS)
+- Row-Level Security (RLS)
 - Power BI Service deployment and testing
+
+---
+
+## 📈 Project Outcome
+
+Successfully developed and deployed an end-to-end Insurance Analytics solution using SQL Server, Power BI Desktop, Power Query, and Power BI Service. The dashboard enables stakeholders to monitor premium, coverage, and claim performance, analyze customer demographics, track active and inactive policies, and investigate policy-level details through drill-through functionality. Row-Level Security (RLS) was implemented to ensure secure and role-based access to policy data.
 
 ---
 ## 📁 Repository Structure
@@ -347,7 +354,7 @@ Aspiring Data Analyst | SQL | Power BI | Data Visualization
 
 ### Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/paridhi-singhal123/
+- [LinkedIn Profile](https://www.linkedin.com/in/paridhi-singhal123/)
 
 
 ---
