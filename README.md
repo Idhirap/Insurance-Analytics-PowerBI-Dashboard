@@ -261,7 +261,7 @@ Data cleaning and transformation were performed in Power Query Editor, including
 
 Users can right-click on a Policy Type from the overview dashboard and navigate to a detailed analysis page using Power BI Drill Through functionality.
 
-![Drill Through Source Page](screenshots/DrillThrough_SourcePage.png)
+![Drill Through Source Page](screenshots/DrillThrough_SourcePage.PNG)
 
 ---
 
