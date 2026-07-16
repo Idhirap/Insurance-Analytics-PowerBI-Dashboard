@@ -107,7 +107,6 @@ Role Access Rules:
 | Travel Role | Travel Policies Only |
 | Health Role | Health Policies Only |
 
-The security model must be tested in both Power BI Desktop and Power BI Service.
 ---
 
 ## 🛠️ Tools & Technologies
