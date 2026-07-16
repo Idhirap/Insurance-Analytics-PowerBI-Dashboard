@@ -253,7 +253,7 @@ The main dashboard provides a high-level view of insurance performance through K
 
 Data cleaning and transformation were performed in Power Query Editor, including data profiling, trimming unwanted spaces, changing data types, creating Age Group categories, and deriving Active/Inactive policy status.
 
-![Power Query Editor](screenshots/PowerQueryEditor_DataTransformation.png)
+![Power Query Editor](screenshots/PowerQueryEditor_DataTransformation.PNG)
 
 ---
 
@@ -261,7 +261,7 @@ Data cleaning and transformation were performed in Power Query Editor, including
 
 Users can right-click on a Policy Type from the overview dashboard and navigate to a detailed analysis page using Power BI Drill Through functionality.
 
-![Drill Through Source Page](screenshots/DrillThrough_SourcePage.PNG)
+![Drill Through Source Page](screenshots/DrillThrough_SourcePage.png)
 
 ---
 
